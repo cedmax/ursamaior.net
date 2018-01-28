@@ -1,0 +1,2 @@
+Lettura teatrale nata dal gruppo di quartiere Omnibus, ispirata al "Galileo" brechtiano.  
+Alle scene fanno da introduzione dei brani scritti da Giovanna Lima, che spiegano ed integrano notizie mancanti con la leggerezza del Valzer delle Sfere che fa da sfondo alle parole.

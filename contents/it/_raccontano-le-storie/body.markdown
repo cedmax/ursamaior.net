@@ -1,0 +1,3 @@
+Lettura teatrale ispirata all'Antigone di Sofocle.  
+Antigone appartiene ad un mondo in cui il controllo della ragione confina con la realtà immaginata; un mondo in cui il futuro si legge nel fuoco dei sacrifici e nel volo degli uccelli, gli Dei si manifestano con fulmini e temporali e la natura partecipa alle sventure dei mortali.  
+In questo mondo Antigone contrappone la legge dell’amore alla legge degli uomini e viene sconfitta. “Le parole della superbia ricadono sul capo di chi le ha pronunciate. Non c’è al mondo felicità senza saggezza.” 

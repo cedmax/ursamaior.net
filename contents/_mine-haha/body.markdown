@@ -1,0 +1,1 @@
+La riflessione sulla memoria, l’isolamento e l’incertezza sul futuro e la negazione del corpo, portano ad un alternarsi di staticità e frenesia da cui risulta una felicità sospesa e irragionevole. 

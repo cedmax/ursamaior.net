@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  {{>head}}
+</head>
+
+<body id="homepage" class="page-template-page-fullsingle-split">
+
+  <div class="fs-split">
+
+    <!-- Content Side -->
+    <div class="split-content">
+
+
+      <div class="split-content-vertically-center">
+        {{>menu}}
+        <div class="split-intro">
+          <h2 class="tagline">{{site-title}}</h2>
+        </div>
+
+        <div class="split-bio">
+          
+          {{{body}}}
+          <small>{{{credits}}}</small>
+
+        </div>
+        {{#links}}
+        <div class="split-lists">
+          
+          <div class="split-list">
+
+            <h3>Links</h3>
+
+            <ul>
+              {{#links}}<li><a href="{{href}}">{{content}}</a></li>{{/links}}
+            </ul>
+
+          </div>
+        </div>
+        {{/links}}
+        {{>footer}}
+      </div>
+
+
+
+    </div>
+
+    
+
+
+  </div>
+
+  </body>
+</html>

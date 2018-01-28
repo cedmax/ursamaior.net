@@ -1,0 +1,1 @@
+This performance was born from the grassroot reading group Omnibus. Inspired by Brecht's Galileo, the scenes are introduced by Giovanna Lima's lyric prose.

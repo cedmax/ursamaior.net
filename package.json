@@ -1,0 +1,15 @@
+{
+  "name": "irene",
+  "version": "1.0.0",
+  "dependencies": {
+    "punch": "^0.5.46"
+  },
+  "resolutions": {
+    "mime": "1.*",
+    "uglify-js": "2.2.3"
+  },
+  "scripts": {
+    "start": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
+    "build": "./node_modules/punch/bin/punch g --blank && cp .htaccess output"
+  }
+}
