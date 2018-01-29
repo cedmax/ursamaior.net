@@ -100,7 +100,7 @@ menu nav {
   }
   
 nav small {
-  color: #888;
+  color: #666;
   font-size: 70%!important;
 }
 #menu {display: none;}
@@ -110,14 +110,22 @@ label.menu {
   transition: opacity 300ms cubic-bezier(.4,.25,.3,1) 900ms;
   display: inline-block;
   position: absolute;
-  top: 65px;
-  right: 100px;
+  top: 4.5vw;
+  right: 4.5vw;
   line-height: 40px;
   font-size: 1.3rem;
   font-weight: 900;
   text-transform: uppercase;
   cursor: pointer;
 }
+
+@media (max-width: 600px) {
+  label.menu {
+    font-size: 1rem;
+    line-height: 2
+  }
+}
+
 label.menu::before,
 label.menu::after {
   content: '';
@@ -134,12 +142,21 @@ label.menu::after {bottom: 0}
 label.menu:hover::before {top: -.25rem}
 label.menu:hover::after {bottom: -.25rem}
 
-menu nav label[for=menu] {
-  align-self: flex-end;
-  margin-right: 100px;
+
+menu label[for=menu] {
+  opacity: 0;
+  cursor: pointer;
+}
+#menu:checked + menu label[for=menu] {
+  transition: opacity 800ms cubic-bezier(.4,.25,.3,1);
+  opacity: 1;
+  position: absolute;
+  right: 4.5vw;
+  top: 4.5vw;
+  margin-right: 8px;
+  margin-top: 2px;
 }
 
-/* menu toggle *//* click the label > checks the radio > toggles the menu */
 #menu:checked + menu {
   transition: background 800ms cubic-bezier(.4,.25,.3,1);
   animation-direction: alternate;
@@ -151,10 +168,9 @@ menu nav label[for=menu] {
     transition: all 500ms cubic-bezier(.4,.25,.3,1) 250ms;
     height: 70%;
     bottom: 15%;
-    font-size: 1.7rem;
+    font-size: calc(12px + 1vw);
   }
 
-/* section change *//* click the label > check the radio > change the section */
 input[name="menu"]:checked + section {
   transition: opacity 900ms cubic-bezier(.4,.25,.3,1);
   bottom: 0;
