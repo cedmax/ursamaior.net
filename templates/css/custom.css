@@ -110,7 +110,7 @@ label.menu {
   transition: opacity 300ms cubic-bezier(.4,.25,.3,1) 900ms;
   display: inline-block;
   position: absolute;
-  top: 4.5vw;
+  top: calc(45px + 1vw);
   right: 4.5vw;
   line-height: 40px;
   font-size: 1.3rem;
@@ -122,7 +122,7 @@ label.menu {
 @media (max-width: 600px) {
   label.menu {
     font-size: 1rem;
-    line-height: 2
+    line-height: 2;
   }
 }
 
@@ -150,11 +150,8 @@ menu label[for=menu] {
 #menu:checked + menu label[for=menu] {
   transition: opacity 800ms cubic-bezier(.4,.25,.3,1);
   opacity: 1;
-  position: absolute;
-  right: 4.5vw;
-  top: 4.5vw;
-  margin-right: 8px;
-  margin-top: 2px;
+  font-weight: bold;
+  display: inline-block;
 }
 
 #menu:checked + menu {
