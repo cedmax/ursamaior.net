@@ -1,6 +1,8 @@
-Da un'idea di Sara Brugnolo e Irene Ros    
-Con Sara Barison, Mohsen Ghaffari, Veronika Szabó e Hanna Várszegi  
-Produttrice: Justine Beaucourt   
-Scenografia: Sara Svati  
-Assistente scenografa: Eva Terzoni  
-Regia: Irene Ros  
+Idea by Sara Brugnolo e Irene Ros.   
+With Sara Barison, Mohsen Ghaffari, Veronika Szabó and Hanna Várszegi.  
+
+Production: Justine Beaucourt.  
+Set design: Sara Svati.  
+Set design assistant: Eva Terzoni.  
+
+Directed by Irene Ros.  

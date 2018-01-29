@@ -1,9 +1,10 @@
-Tratto da “Mine Haha. Ovvero dell’educazione fisica delle fanciulle” di Frank Wedekind.  
-Con Irene Ros.  
-Musiche: Federico Ros.  
-Grafiche: Federico Ros e Marco Cedaro.  
-Foto di Laura Frasca  
+This project is co-funded by European Union. The content of this project does not reflect the official opinion of the European Union. Responsibility for the information and views expressed lies entirely with the author.  
+
+Inspired by “Mine Haha. Ovvero dell’educazione fisica delle fanciulle” di Frank Wedekind.  
+With Irene Ros.  
+
+Music by Federico Ros.  
+Graphics by Federico Ros and Marco Cedaro.  
+Pictures by Laura Frasca.  
   
-Regia: Irene Ros  
-  
-Questo progetto è stato realizzato con il sostegno finanziario della Comunità Europea. Il contenuto del presente progetto non riflette necessariamente la posizione della Comunità Europea o dell’Agenzia Nazionale né comporta per loro alcuna  responsabilità.
+Regia: Irene Ros.  

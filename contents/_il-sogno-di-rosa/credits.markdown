@@ -1,10 +1,9 @@
-Da “La Rosa Rossa.  
-Il sogno di Rosa Luxemburg” di Vanna Cercenà  
-Con Sara Brugnolo (Rosa) e Manuela Cuscini  
+Inspired by “La Rosa Rossa. Il sogno di Rosa Luxemburg” (Red Rose. Rosa Luxemburg's Dream) by Vanna Cercenà.  
+With Sara Brugnolo (Rosa) and Manuela Cuscini.  
 
-Voci registrate:  
-Edoardo Lomazzi, Marco Mattiuzzo, Marina Meinero, Claudio Nader, Martino Pani, Michele Spanò, Marika Tesser, Michele Zaccaria  
+Registered voices of Edoardo Lomazzi, Marco Mattiuzzo, Marina Meinero, Claudio Nader, Martino Pani, Michele Spanò, Marika Tesser e Michele Zaccaria.  
 
-Illustrazioni di Emanuela Orciari  
-Scenografia di Simone Bellotti  
-Regia di Irene Ros
+Illustrations by Emanuela Orciari.  
+Set design by Simone Bellotti.  
+
+Directed by Irene Ros.

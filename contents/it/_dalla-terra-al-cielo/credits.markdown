@@ -1,4 +1,3 @@
-con Debora Pradarelli
-Irene Ros
-Briana Zaki
-Regia di Irene Ros
+Con Debora Pradarelli, Irene Ros e Briana Zaki.  
+
+Regia di Irene Ros.

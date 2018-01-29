@@ -1,5 +1,6 @@
-Testo di Dacia Maraini  
-Con Silvia Giuntoli, Debora Pradarelli, Briana Zaki  
-Regia di Irene Ros  
+Words by Dacia Maraini.  
+With Silvia Giuntoli, Debora Pradarelli and Briana Zaki.  
+  
+Pictures by Tamara Casula.  
 
-Foto di Tamara Casula
+Directed by Irene Ros.

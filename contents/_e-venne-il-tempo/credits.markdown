@@ -1,16 +1,5 @@
-Col Contributo del Comune di Bologna, Quartiere Savena  
+Words by Giovanna Lima inspired by Brecht's Galileo.  
+Reading with Manuela Cuscini, Mariantonia Deghenghi, Gabriella De Giovanni, Catia Giuliani, Giovanna Lima, Annamaria Lusardi and Rita Roatti.  
+Pictures by Nicola Casamassima.  
 
-Testi di Giovanna Lima dal Galileo di Brecht  
-
-Reading con  
-Manuela Cuscini
-Mariantonia Deghenghi
-Gabriella De Giovanni
-Catia Giuliani
-Giovanna Lima
-Annamaria Lusardi
-Rita Roatti
-
-Foto di Nicola Casamassima
-
-Regia di Irene Ros
+Directed by Irene Ros.

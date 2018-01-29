@@ -1,4 +1,3 @@
-con Debora Pradarelli
-Irene Ros
-Briana Zaki
-Regia di Irene Ros
+With Debora Pradarelli, Irene Ros and Briana Zaki.  
+
+Directed by Irene Ros.

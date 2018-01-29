@@ -1,3 +1,4 @@
-Dalla fiaba di Andersen.  
-Con Benedetta Conte, Edoardo Lomazzi, Irene Ros e Briana Zaki
-Regia di Irene Ros
+Inspired by Andersen's tale.  
+With Benedetta Conte, Edoardo Lomazzi, Irene Ros and Briana Zaki.  
+
+Directed by Irene Ros.
