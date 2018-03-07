@@ -1,0 +1,1 @@
+Cosa succederebbe se oltre alla terra l’uomo cominciasse ad inquinare anche la luna?

@@ -1,0 +1,1 @@
+Ispirato alla fiaba Hansel e Gretel, uno spettacolo in cui  attraverso i colori, le immagini, le musiche e il ritmo, i due bambini scoprono la loro capacità di essere indipendenti, contando l’uno sull’altro.
