@@ -12,6 +12,14 @@ body {
 .split-credit , .split-lists .split-list h3 {
   opacity: .8;
 }
+#um-logo {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  z-index: 100;
+  width: 5rem;
+  opacity: .5;
+}
 
 .split-intro h1 a {
   font-weight: 400;
