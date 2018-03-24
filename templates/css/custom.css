@@ -1,5 +1,16 @@
+body {
+  color: #fff!important;
+}
 .split-intro h3.tagline {
   line-height: 1.3
+}
+
+.split-lists .split-list {
+  width: auto;
+}
+
+.split-credit , .split-lists .split-list h3 {
+  opacity: .8;
 }
 
 .split-intro h1 a {
@@ -61,7 +72,7 @@ small {
 }
 
 .split-bio p {
-  color: #ccc!important
+  color: #eee!important
 }
 
 .split-content {

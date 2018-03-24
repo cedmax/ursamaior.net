@@ -5,7 +5,7 @@
   {{>head}}
 </head>
 
-<body id="fullsingle" class="page-template-page-fullsingle-split">
+<body id="fullsingle" {{#background}}style="background:{{background}};"{{/background}} class="page-template-page-fullsingle-split">
 
   <div class="fs-split">
 
@@ -33,7 +33,7 @@
       
         <div class="split-intro">
           
-          <h1><a href="/">{{site-title}}</a></h1>
+          <h1><a {{#color}}style="color:{{color}}"{{/color}} href="/">{{site-title}}</a></h1>
 
           <h2 class="tagline">{{title}}</h2>
           {{#subtitle}}<h3 class="tagline">{{subtitle}}</h3>{{/subtitle}}
@@ -46,18 +46,18 @@
 
         </div>
         {{#links}}
-        <div class="split-lists">
-          
-          <div class="split-list">
+          <div class="split-lists">
+            
+            <div class="split-list">
 
-            <h3>Links</h3>
+              <h3 {{#color}}style="color:{{color}}"{{/color}}>Links</h3>
 
-            <ul>
-              {{#links}}<li><a href="{{href}}">{{content}}</a></li>{{/links}}
-            </ul>
+              <ul>
+                {{#links}}<li><a {{#color}}style="color:{{color}}"{{/color}} href="{{href}}">{{content}}</a></li>{{/links}}
+              </ul>
 
+            </div>
           </div>
-        </div>
         {{/links}}
         {{>footer}}
       </div>

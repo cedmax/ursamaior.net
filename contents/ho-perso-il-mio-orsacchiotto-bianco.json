@@ -1,4 +1,6 @@
 {
   "title": "Ho perso il mio Orsacchiotto Bianco",
-  "image": "images/shows/orsacchiotto.jpg"
+  "image": "images/shows/orsacchiotto.jpg",
+  "background": "#4396a2",
+  "color": "#fff"
 }

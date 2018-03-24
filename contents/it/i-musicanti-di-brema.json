@@ -1,4 +1,6 @@
 {
   "title": "I musicanti di Brema",
-  "image": "../images/shows/musicanti.jpg"
+  "image": "../images/shows/musicanti.jpg",
+  "background": "#193113",
+  "color": "#bc4a2a"
 }

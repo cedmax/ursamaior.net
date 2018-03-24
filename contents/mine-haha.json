@@ -1,4 +1,6 @@
 {
   "title": "Mine Haha",
-  "image": "images/shows/minehaha.jpg"
+  "image": "images/shows/minehaha.jpg",
+  "background": "#745464",
+  "color": "#ebbbd3"
 }

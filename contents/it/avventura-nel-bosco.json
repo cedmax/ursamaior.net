@@ -1,6 +1,6 @@
 {
   "title": "Avventura nel bosco",
-  "image": "images/shows/avventurabosco.jpg",
+  "image": "../images/shows/avventurabosco.jpg",
   "background": "#6b5f48",
   "color": "#beaf93"
 }

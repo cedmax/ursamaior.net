@@ -1,4 +1,6 @@
 {
   "title": "Il sogno di rosa",
-  "image": "images/shows/rosa.jpg"
+  "image": "images/shows/rosa.jpg",
+  "background": "#a3360a",
+  "color": "#caa361"
 }

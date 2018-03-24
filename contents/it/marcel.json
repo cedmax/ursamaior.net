@@ -4,5 +4,7 @@
   "links": [{
     "href": "https://marcelonstage.co.uk",
     "content": "Marcel on stage"
-  }]
+  }],
+  "background": "#050504",
+  "color": "#c5b49d"
 }

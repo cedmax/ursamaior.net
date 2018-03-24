@@ -1,4 +1,6 @@
 {
   "title": "Raccontano le storie",
-  "image": "images/shows/storie.jpg"
+  "image": "images/shows/storie.jpg",
+  "background": "#544645",
+  "color": "#d1a366"
 }
