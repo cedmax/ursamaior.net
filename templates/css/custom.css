@@ -12,14 +12,6 @@ body {
 .split-credit , .split-lists .split-list h3 {
   opacity: .8;
 }
-#um-logo {
-  position: absolute;
-  top: 2rem;
-  left: 2rem;
-  z-index: 100;
-  width: 5rem;
-  opacity: .5;
-}
 
 .split-intro h1 a {
   font-weight: 400;
@@ -185,6 +177,19 @@ menu label[for=menu] {
     height: 70%;
     bottom: 15%;
     font-size: calc(12px + 1vw);
+  }
+
+  #um-logo {
+    transition: all 500ms cubic-bezier(.4,.25,.3,1) 250ms;
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    width: 5rem;
+    opacity: .7;
+  }
+
+  #menu:checked + menu + .split-content-vertically-center #um-logo {
+    opacity: 0;
   }
 
 input[name="menu"]:checked + section {

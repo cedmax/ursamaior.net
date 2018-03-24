@@ -16,8 +16,6 @@
 
     {{#video}}
       <div class="split-image split-video">
-        <img id="um-logo" src="images/logo.svg"/>
-
         <div class="video-wrap">
           <div class="video-container">
             <iframe class="video-content" src="https://player.vimeo.com/video/{{video}}?autoplay=1&loop=1&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
@@ -32,7 +30,8 @@
       {{>menu}}
 
       <div class="split-content-vertically-center">
-      
+        <img id="um-logo" src="images/logo.svg" />
+
         <div class="split-intro">
           
           <h1><a {{#color}}style="color:{{color}}"{{/color}} href="/">{{site-title}}</a></h1>
