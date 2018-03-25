@@ -1,2 +1,3 @@
 Idea by Debora Pradarelli and Irene Ros.  
-With Sara Brugnolo and Briana Zaki.
+  
+Developed by Sara Brugnolo and Briana Zaki.
