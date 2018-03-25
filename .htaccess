@@ -1,1 +1,53 @@
 ErrorDocument 404 /404.html
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/avventura-nel-bosco.html$
+RewriteRule .* /avventura-nel-bosco.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/dalla-terra-al-cielo.html$
+RewriteRule .* /dalla-terra-al-cielo.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} progetti/e-venne-il-tempo-in-cui-filosofia-e-scienza-confusero-le-idee-allumanita.html$
+RewriteRule .* /e-venne-il-tempo.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/ho-perso-il-mio-orsacchiotto-bianco.html$
+RewriteRule .* /ho-perso-il-mio-orsacchiotto-bianco.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/i-musicanti-di-brema.html$
+RewriteRule .* /i-musicanti-di-brema.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/il-pianto-della-luna.html$
+RewriteRule .* /il-pianto-della-luna.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/il-sogno-di-rosa-luxemburg.html$
+RewriteRule .* /il-sogno-di-rosa.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/la-regina-della-neve-non-ho-bisogno-di-te.html$
+RewriteRule .* /la-regina-delle-nevi.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/marcel.html$
+RewriteRule .* /marcel.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/mela.html$
+RewriteRule .* /mela.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/mine-haha.html$
+RewriteRule .* /mine-haha.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} spettacoli/quella-luce-blu-la-vita-di-madame-curie.html$
+RewriteRule .* /quella-luce-blu.html [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} progetti/raccontano-le-storie.html$
+RewriteRule .* /raccontano-le-storie.html [L,R=301]
