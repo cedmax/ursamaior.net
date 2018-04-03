@@ -1,23 +1,7 @@
 {
   "name": "irene",
   "version": "1.0.0",
-  "dependencies": {
-    "punch": "^0.5.46"
-  },
-  "resolutions": {
-    "mime": "1.*",
-    "uglify-js": "2.2.3"
-  },
   "scripts": {
-    "postinstall": "node ./scripts/fetch-content",
-    "start": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
-    "build": "./node_modules/punch/bin/punch g --blank && cp .htaccess output"
-  },
-  "devDependencies": {
-    "contentful-static": "^1.4.2",
-    "dotenv": "^5.0.1",
-    "image-downloader": "^3.3.0",
-    "mkdirp": "^0.5.1",
-    "slugify": "^1.2.9"
+    "build": "codeship_restart_build"
   }
 }
