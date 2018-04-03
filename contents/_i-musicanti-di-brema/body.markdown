@@ -1,1 +1,0 @@
-A participative performance built on sound and noise to tell a story about friendship.

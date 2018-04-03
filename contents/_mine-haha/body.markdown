@@ -1,1 +1,0 @@
-A reflection on memory, isolation and on the negation of the female body.

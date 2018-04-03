@@ -1,1 +1,0 @@
-A ghostly Marie Curie, almost evoked by her daughter Irene, who affectionately goes along her mother’s crazy dialogue with an old radio. Marie doesn’t want her life to be investigated with voyeurism, but she lets her memories flow like a fairy-tale of love.

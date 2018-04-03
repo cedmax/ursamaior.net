@@ -1,1 +1,0 @@
-A performance that features rebel monkeys, suspended dictators and opera singers with two faces.
