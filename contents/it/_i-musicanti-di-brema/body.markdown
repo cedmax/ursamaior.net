@@ -1,1 +1,0 @@
-Uno spettacolo sui suoni, sui rumori, che dà la possibilità di lavorare sull’immaginazione.

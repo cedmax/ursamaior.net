@@ -1,1 +1,0 @@
-The path that leads us to discover the 4 elements is, at the same time, a journey through different continents and different cultures. The performance has been developed from some readings created for for the festival *Somnio ergo Sum*, promoted by *Fondazione del Monte di Bologna e Ravenna*.

@@ -1,1 +1,0 @@
-Mela è una grottesca commedia noir sul tempo. Mela è una toppa cucita male di fronte alla quale non possiamo che coprirci gli occhi. 
