@@ -1,1 +1,0 @@
-C’era una volta una bambina che imitava il verso delle cinciallegre così bene da farle volare subito al suo balcone, c’era una volta una giovane donna che sognava un mondo senza fame, senza miseria, senza guerra, dove libertà e giustizia non fossero solo parole.  

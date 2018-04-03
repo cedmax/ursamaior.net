@@ -1,1 +1,0 @@
-Uno un percorso sensoriale e ludico per bambini dai 3 ai 5 anni, che accompagna i bambini attraverso i diversi momenti della giornata. 
