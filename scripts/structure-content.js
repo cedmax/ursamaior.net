@@ -3,10 +3,13 @@ const slugify = require('slugify')
 const mkdirp = require('mkdirp')
 
 const titlify = (title) => slugify(title.toLowerCase())
+const imagify = (image) => `images/shows/${image}`;
 
 const saveShared = ({ shows, metadata }) => {
   const json = {
     "site-title": metadata.title,
+    "site-description": metadata.metaDescription,
+    "site-image": imagify(metadata.shareImage.fields.file.fileName),
     copyright: metadata.footer,
     navbar: []
   }
@@ -30,12 +33,12 @@ const saveShared = ({ shows, metadata }) => {
 const saveShows = ({shows}) => {
   for (const show of shows) {
     const slug = titlify(show.title);
-
+  
     fs.writeFileSync(`./contents/${slug}.json`, JSON.stringify({
       "title": show.title,
       "subtitle": show.subtitle,
-      "image": `images/shows/${show.image.file.fileName}`,
-      "links": show.links,
+      "image": imagify(show.image.file.fileName),
+      "links": show.links ? show.links.map(link => link.fields) : null,
       "background": show.background,
       "color": show.colour
     }, null, 2), 'UTF-8')
