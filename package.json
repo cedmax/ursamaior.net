@@ -2,6 +2,6 @@
   "name": "irene",
   "version": "1.0.0",
   "scripts": {
-    "build": "codeship_restart_build"
+    "build": "curl -sSL https://raw.githubusercontent.com/codeship/scripts/master/utilities/codeship_restart_build.sh | bash -s"
   }
 }
