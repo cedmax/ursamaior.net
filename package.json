@@ -11,7 +11,7 @@
   "scripts": {
     "postinstall": "node ./scripts/fetch-content",
     "start": "rm -rf ./output/* && ./node_modules/punch/bin/punch s",
-    "build": "./node_modules/punch/bin/punch g --blank && cp .htaccess output"
+    "build": "./node_modules/punch/bin/punch g --blank && cp _redirects output"
   },
   "devDependencies": {
     "contentful-static": "^1.4.2",
