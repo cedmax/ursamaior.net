@@ -11,6 +11,12 @@
 /spettacoli/mine-haha.html /mine-haha.html 301
 /spettacoli/quella-luce-blu-la-vita-di-madame-curie.html /quella-luce-blu.html 301
 /progetti/raccontano-le-storie.html /raccontano-le-storie.html 301
+/progetti/creativi-per-rosa-luxemburg.html /il-sogno-di-rosa.html 301
+/progetti/somnio-ergo-sum.html /dalla-terra-al-cielo.html 301
+/collaboratori/* / 301
+/progetti/* / 301
+/compagnia/* / 301
+/en https://ursamaior.net 301
 /en/spettacoli/avventura-nel-bosco.html https://ursamaior.net/avventura-nel-bosco.html 301
 /en/spettacoli/dalla-terra-al-cielo.html https://ursamaior.net/dalla-terra-al-cielo.html 301
 /en/progetti/e-venne-il-tempo-in-cui-filosofia-e-scienza-confusero-le-idee-allumanita.html https://ursamaior.net/e-venne-il-tempo.html 301
@@ -24,3 +30,8 @@
 /en/spettacoli/mine-haha.html https://ursamaior.net/mine-haha.html 301
 /en/spettacoli/quella-luce-blu-la-vita-di-madame-curie.html https://ursamaior.net/quella-luce-blu.html 301
 /en/progetti/raccontano-le-storie.html https://ursamaior.net/raccontano-le-storie.html 301
+/en/progetti/creativi-per-rosa-luxemburg.html https://ursamaior.net/il-sogno-di-rosa.html 301
+/en/progetti/somnio-ergo-sum.html https://ursamaior.net/dalla-terra-al-cielo.html 301
+/en/collaboratori/* https://ursamaior.net/ 301
+/en/progetti/* https://ursamaior.net/ 301
+/en/compagnia/* https://ursamaior.net/ 301
